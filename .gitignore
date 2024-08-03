@@ -19,3 +19,4 @@
 02_activities/assignments/best_model/
 02_activities/assignments/*.zip
 02_activities/assignments/*.txt
+ruff.toml
